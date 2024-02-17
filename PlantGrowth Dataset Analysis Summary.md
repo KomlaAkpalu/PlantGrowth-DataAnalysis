@@ -31,13 +31,14 @@ Boxplots were created to visualize the distribution of weights within each group
 
 This boxplot visualizes the spread and central tendencies of plant weights in each treatment group.
 
-![Boxplot of Plant Weights by Treatment Group](/C:/Users/julie/Desktop/GITHUB/plant/plant_growth_boxplot.png)
+![plant_growth_boxplot](https://github.com/JulienAkpalu/PlantGrowth-DataAnalysis/assets/152445561/02942b2a-bf63-4d9d-b90d-6ce59e0dda31)
 
 ### Boxplot of Plant Weights with Significant Differences
 
 This annotated boxplot highlights the significant difference in plant growth between the `trt2` and `trt1` treatment groups.
 
-![Boxplot of Plant Weights with Significant Differences](/C:/Users/julie/Desktop/GITHUB/plant/plant_growth_annotated_boxplot.png)
+![plant_growth_annotated_boxplot](https://github.com/JulienAkpalu/PlantGrowth-DataAnalysis/assets/152445561/70040f0d-a9eb-44ec-ad2d-d1f96bc05745)
+
 
 ## Conclusions
 

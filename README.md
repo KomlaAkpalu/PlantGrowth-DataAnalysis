@@ -35,5 +35,5 @@ To use this repository:
 I am Julien Akpalu, a data analyst enthusiast with a passion for uncovering insights from data using R. 
 
 ## Contact
-For any queries or discussions, feel free to contact me at julienakpalu2@gmail.com . You can also find more of my work on my [GitHub Profile](https://github.com/JulienAkpalu).
+For any queries or discussions, feel free to contact me at julienakpalu2@gmail.com. You can also find more of my work on my [GitHub Profile](https://github.com/JulienAkpalu).
 
